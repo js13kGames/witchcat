@@ -1,4 +1,8 @@
 ---
+genres:
+  - adventure
+  - platformer
+  - action
 post: https://github.com/jonathan-vallet/js13k-2025/blob/main/POST_MORTEM.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
